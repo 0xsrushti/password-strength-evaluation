@@ -100,3 +100,9 @@ This task reinforced the importance of using **strong, unique passwords** and **
 ![Maximum Strength Password Test](screenshots/5_max.png)
 
 ---
+
+## ✍️ Author
+
+**Srushti Dave** 
+
+---
