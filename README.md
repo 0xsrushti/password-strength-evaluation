@@ -85,18 +85,18 @@ This task reinforced the importance of using **strong, unique passwords** and **
 ## 📸 Screenshots
 
 ### 1️⃣ Weak Password Test (`password123`)
-![Weak Password Test](screenshots/1_weak_password.png)
+![Weak Password Test](screenshots/1_weak.png)
 
 ### 2️⃣ Medium Password Test (`P@ssword123`)
-![Medium Password Test](screenshots/2_medium_password.png)
+![Medium Password Test](screenshots/2_medium.png)
 
 ### 3️⃣ Strong Password Test (`P@55w0rd!2025`)
-![Strong Password Test](screenshots/3_strong_password.png)
+![Strong Password Test](screenshots/3_strong.png)
 
 ### 4️⃣ Very Strong Password Test (`Sru$hti_D@ve!2025`)
-![Very Strong Password Test](screenshots/4_very_strong_password.png)
+![Very Strong Password Test](screenshots/4_very_strong.png)
 
 ### 5️⃣ Maximum Strength Password Test (`Sru$hti_D@ve!2025#Cyber@Security`)
-![Maximum Strength Password Test](screenshots/5_max_strength_password.png)
+![Maximum Strength Password Test](screenshots/5_max.png)
 
 ---
