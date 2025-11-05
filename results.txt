@@ -1,0 +1,5 @@
+password123 -> 43% (Good)
+P@ssword123 -> 89% (Strong)
+P@55w0rd!2025 -> 100% (Very Strong)
+Sru$hti_D@ve!2025 -> 100% (Excellent)
+Sru$hti_D@ve!2025#Cyber@Security -> 100% (Excellent)
